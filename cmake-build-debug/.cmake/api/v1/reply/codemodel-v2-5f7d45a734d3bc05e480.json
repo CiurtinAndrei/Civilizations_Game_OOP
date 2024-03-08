@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/crism/CLionProjects/Civilizations OOP Game/cmake-build-debug",
-		"source" : "C:/Users/crism/CLionProjects/Civilizations OOP Game"
+		"build" : "C:/Users/crism/Documents/GitHub/Civilizations_Game_OOP/cmake-build-debug",
+		"source" : "C:/Users/crism/Documents/GitHub/Civilizations_Game_OOP"
 	},
 	"version" : 
 	{
